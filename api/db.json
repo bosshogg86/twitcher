@@ -1,3 +1,15 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "Streaming",
+      "description": "This is how we do it now",
+      "id": 4
+    },
+    {
+      "title": "Escape!",
+      "description": "wser",
+      "userId": "110698759042278556334",
+      "id": 5
+    }
+  ]
 }
